@@ -1,5 +1,7 @@
 """ 
 	Iterative and Recursive Binary Search
+	Space Complexity - O(1) and O(log n) respectively
+	Time Complexity - O(log n)
 """
 
 # iterative binary search
