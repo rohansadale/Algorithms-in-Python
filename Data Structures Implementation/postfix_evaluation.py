@@ -18,5 +18,5 @@ def evaluate(s):
 	return opstack[0]
 
 if __name__ == '__main__':
-	s = '2 2 * 3 3 * +'
+	s = '7 8 + 3 2 + /'
 	print evaluate(s.split())
